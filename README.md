@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🐱‍👤, I'm Caio Pratali</h1>
+<h1 align="center">Hi 🐱‍👤, I'm Caio Pratali.</h1>
 <h3 align="center">A beginner JS developer and linux enthusiastic.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caiopratali&label=Profile%20views&color=0e75b6&style=flat" alt="caiopratali" /> </p>
