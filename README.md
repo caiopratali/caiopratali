@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Caio Pratali</h1>
+<h1 align="center">Hi 🐱‍👤, I'm Caio Pratali</h1>
 <h3 align="center">A beginner JS developer and linux enthusiastic.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caiopratali&label=Profile%20views&color=0e75b6&style=flat" alt="caiopratali" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=caiopratali" alt="caiopratali" /></a> </p>
 
 - 🌱 I’m currently learning **the javascript universe.**
 
@@ -25,4 +23,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=caiopratali&show_icons=true&locale=en" alt="caiopratali" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caiopratali&" alt="caiopratali" /></p>
-
