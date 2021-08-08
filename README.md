@@ -1,4 +1,5 @@
 <h1 align="center">🚀 Hi, i'm Caio Pratali 💻</h1>
+<p align="center">Another small grain of sand that inhabits planet Earth, which allows itself to have the big dream of using technology to transform the world we live in into a better place.</p>
 <h3 align="center">A beginner JS developer and linux enthusiastic.</h3>
 
 <div align="center">
