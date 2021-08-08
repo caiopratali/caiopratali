@@ -8,7 +8,7 @@
 </br>
 
 <div align="center">
-<img width="82%" style="-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://opengraph.githubassets.com/e366a94934a9a64f9114254a6fa1c8aab96e4d3db941c7aee77c78cc9ba517a1/caiopratali/caiopratali">
+<img width="90%" style="-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://opengraph.githubassets.com/e366a94934a9a64f9114254a6fa1c8aab96e4d3db941c7aee77c78cc9ba517a1/caiopratali/caiopratali">
 </div>
 
 </br>
