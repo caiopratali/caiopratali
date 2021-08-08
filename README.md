@@ -43,5 +43,5 @@
 <div align="center">
 <img height="180em" src="https://media0.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" alt="Rocket" />
 <div align="center">
-<h4 align="center">"Stay hungry, stay foolish."</h4>
+<h3 align="center">"Stay hungry, stay foolish."</h3>
 <h6 align="center">- Steve Jobs </h6>
