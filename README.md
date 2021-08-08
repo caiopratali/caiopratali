@@ -11,8 +11,8 @@
 
 <div>
   <a href="https://github.com/caiopratali">
-    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=caiopratali&show_icons=true&locale=en&theme=radical" alt="caiopratali" /></p>
     <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=caiopratali&show_icons=true&locale=en&layout=compact&theme=radical" alt="caiopratali" /></p>
+        <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=caiopratali&show_icons=true&locale=en&theme=radical" alt="caiopratali" /></p>
   </a>
 </div>
 
