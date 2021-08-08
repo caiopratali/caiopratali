@@ -9,11 +9,10 @@
 
 - 📫 How to reach me **caio@pratali.com.br**
 
-<div>
+ <div>
   <a href="https://github.com/caiopratali">
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=caiopratali&show_icons=true&locale=en&layout=compact&theme=radical" alt="caiopratali" /></p>
-        <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=caiopratali&show_icons=true&locale=en&theme=radical" alt="caiopratali" /></p>
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiopratali&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiopratali&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
