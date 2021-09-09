@@ -12,7 +12,12 @@
 
 - 💬 Ask me about **react, node, react-native...**
 
-- 📫 How to reach me **caio@pratali.com.br**
+```js
+const Contacts = { 
+  Mail: "caio@pratali.com.br",
+  Linkedin: "linkedin.com/in/caiopratalli",
+}
+```
 
 </br>
 
