@@ -15,7 +15,7 @@
 ```js
 const Contacts = { 
   Mail: "caio@pratali.com.br",
-  Linkedin: "linkedin.com/in/caiopratalli",
+  Linkedin: "linkedin.com/in/caiopratali",
 }
 ```
 
