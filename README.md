@@ -39,7 +39,7 @@ const Contacts = {
 
 </div>
 <div align="center">
-<img height="180em" src="https://media0.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" alt="Rocket" />
+<img height="180em" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/media/c6590c70a5966a3baf311f081cdda5ff.gif" alt="Developer" />
 <div align="center">
 <h3 align="center">"Stay hungry, stay foolish."</h3>
 <h6 align="center">- Steve Jobs </h6>
