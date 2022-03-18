@@ -39,7 +39,7 @@ const Contacts = {
 
 </div>
 <div align="center">
-<img height="180em" src="https://lh3.googleusercontent.com/d4-D7r_3Z94261uhfRSDXIx4ISrWutdA4_2jyW7Da4HRdUxaWvR51Ee5rpWlabSYTOtpO8tKeomZsYJOcnpgqg9UQ6AQocb747AObMqqZK1MiozFZUGdoauzk_fAn2BJYFCEmTMu6A-faezBUbaiof-daokPlvWWwtpfat8HFAiVP1SOg8gyylXH367hmO_4l6tKF-3FvABWgnVGXeL5zMSGe-MsaL1FY1OpO8iIwJ9UR36ezMDWN7E9EIZYH-t4pQtNZ35VY8uDnODrD-ms19UvSj4H6WdIikNBg8VOEAj3hPF0x2_f-4YXfAPyP9Buyv8g-ZTTknzK8s9kwXGcLwkBMxlPHYmJHdgIotRlrSgJ64CgJEsVPcux3LBSd3nmH5qiqnC3qDsTljd2EGPET_jLrSClVb3v_oQQH0rtF95hd2oXXUem2GhtYGqOGDBTjrWg0zRasSLCwEV2iIoS3J0xG0d8O-CFoOs5PRFxq6su_S8QM5tFmdIFBO-p9m3vTXtbKWqSFF7Nhzvg_J3nwrwrzPyAWtYOXCI3Xhq5S1ny3_DFCQtM5wDp1o8erCoPBBlmrEYvnE99ZA6dXKCch9bMrKQMlHyzBdoB_ZGh9ygK7--sFwuGN_sINfgWRjbsNYvMgD9k_1pubZ9lRNZVQM9MlxUBCQlX-ikhKj-_9yaitVEyNaztnf46Fi97vwX74qWfQcwnXYQDxwDY4_oeLHJQ28r9LinAM25bHfoBCC3PkpWyytHNUy_tIyEN=w800-h600-no?authuser=0" alt="Developer" />
+<img height="180em" src="images/dev.gif" alt="Developer" />
 <div align="center">
 <h3 align="center">"Stay hungry, stay foolish."</h3>
 <h6 align="center">- Steve Jobs </h6>
