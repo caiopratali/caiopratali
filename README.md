@@ -31,8 +31,8 @@ const Contacts = {
 
  <div align="center">
   <a href="https://github.com/caiopratali">
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=caiopratali&theme=dark&hide_border=true" width="45%" >
-  <img  src="https://github-readme-stats.vercel.app/api?username=caiopratali&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" >
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=caiopratali&theme=react&hide_border=true" width="45%" >
+  <img  src="https://github-readme-stats.vercel.app/api?username=caiopratali&show_icons=true&hide_border=true&theme=react" width="45%" align="right" >
  </a>
 </div>
  
