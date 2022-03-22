@@ -1,3 +1,4 @@
+![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 <h1 align="center">HELLO FRIEND, I'M CAIO PRATALI 🚀 </h1>
 <h3 align="center">A beginner JS developer and linux enthusiastic.</h3>
 <div align="center">
