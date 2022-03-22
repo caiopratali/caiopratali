@@ -24,12 +24,9 @@
 const Contacts = { 
   Mail: "caio@pratali.com.br",
   Linkedin: "linkedin.com/in/caiopratali",
+  Portfolio: "caiopratali.dev",
 }
 ```
-
-</br>
-
-</br>
 </br>
 
  <div align="center">
