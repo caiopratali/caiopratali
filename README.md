@@ -1,4 +1,3 @@
-![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 <h1 align="center">HELLO FRIEND, I'M CAIO PRATALI 🚀 </h1>
 <h3 align="center">A beginner JS developer and linux enthusiastic.</h3>
 <div align="center">
@@ -7,6 +6,7 @@
 </br>
 <div align="center">
 <img width="92%" src="https://opengraph.githubassets.com/e366a94934a9a64f9114254a6fa1c8aab96e4d3db941c7aee77c78cc9ba517a1/caiopratali/caiopratali">
+<img width="92%" src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" />
 </div>
 </br>
 <p align="left">Another small grain of sand that inhabits planet Earth and dares to dream that it can make the world a better place using technology as an ally. - Caio Pratali</p>
