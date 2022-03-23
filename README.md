@@ -6,7 +6,7 @@
 </div>
 </br>
 <div align="center">
-<img width="92%" style="-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms; border-radius: 8px;" src="https://opengraph.githubassets.com/e366a94934a9a64f9114254a6fa1c8aab96e4d3db941c7aee77c78cc9ba517a1/caiopratali/caiopratali">
+<img width="92%" src="https://opengraph.githubassets.com/e366a94934a9a64f9114254a6fa1c8aab96e4d3db941c7aee77c78cc9ba517a1/caiopratali/caiopratali">
 </div>
 </br>
 <p align="left">Another small grain of sand that inhabits planet Earth and dares to dream that it can make the world a better place using technology as an ally. - Caio Pratali</p>
@@ -30,10 +30,10 @@ const Contacts = {
 ```
 </br>
 
- <div align="center">
+ <div a>
   <a href="https://github.com/caiopratali">
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=caiopratali&theme=react&hide_border=true" width="48%" >
-  <img  src="https://github-readme-stats.vercel.app/api?username=caiopratali&show_icons=true&hide_border=true&theme=react" width="48%">
+  <img lign="left" src="https://github-readme-streak-stats.herokuapp.com/?user=caiopratali&theme=react&hide_border=true" width="48%" >
+  <img lign="right" src="https://github-readme-stats.vercel.app/api?username=caiopratali&show_icons=true&hide_border=true&theme=react" width="48%">
  </a>
 </div>
  
