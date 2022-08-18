@@ -7,7 +7,6 @@
 </div>
 </br>
 <div align="center">
-<img width="92%" src="https://opengraph.githubassets.com/e366a94934a9a64f9114254a6fa1c8aab96e4d3db941c7aee77c78cc9ba517a1/caiopratali/caiopratali">
 <img width="92%" src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" />
 </div>
 </br>
@@ -45,10 +44,10 @@ const Contacts = {
 ![Snake animation](https://github.com/caiopratali/caiopratali/blob/output/github-contribution-grid-snake.svg)
 </div>
 
-
 </div>
 <div align="center">
 <img height="180em" src="images/dev.gif" alt="Developer" />
-<div align="center">
+<br>
+<img align="center" src="https://profile-counter.glitch.me/{caiopratali}/count.svg" />
 <h3 align="center">"Stay hungry, stay foolish."</h3>
 <h6 align="center">- Steve Jobs </h6>
