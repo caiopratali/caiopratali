@@ -1,4 +1,4 @@
-💬 Ask me about **react, react-native, angular, node and java...**
+💬 Ask me about **react, react-native...**
 
 ```js
 const Contacts = { 
